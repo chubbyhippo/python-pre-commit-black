@@ -7,7 +7,7 @@ pip install -r requirements.txt
 ```sh
 pre-commit install
 ```
-## (Optional) Run on changed files during first git hooks 
+## (Optional) Run on changed files during first git hooks
 ```sh
 pre-commit run --all-files
 ```
