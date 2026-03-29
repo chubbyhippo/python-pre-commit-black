@@ -8,3 +8,6 @@ pip install -r requirements.txt
 pre-commit install
 ```
 ## (Optional) Run on changed files during first git hooks 
+```sh
+pre-commit run --all-files
+```
